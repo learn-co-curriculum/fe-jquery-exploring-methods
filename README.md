@@ -1,9 +1,4 @@
----
-language: html, css, javascript
-tags: jquery, js, selectors, methods, beginner
-type: lab, challenge
-resources: 2
----
+
 
 # Code Challenge - Exploring jQuery Methods
 
