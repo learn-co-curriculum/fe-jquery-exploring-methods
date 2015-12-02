@@ -16,3 +16,5 @@ This challenge asks that you work in teams to select buttons to add click events
 
  * [jQuery API](http://api.jquery.com/)
  * [Live Working Example](http://learn-co-curriculum.github.io/fe-jquery-exploring-methods/)
+
+<a href='https://learn.co/lessons/fe-jquery-exploring-methods' data-visibility='hidden'>View this lesson on Learn.co</a>
